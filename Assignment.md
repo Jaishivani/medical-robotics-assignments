@@ -22,4 +22,4 @@
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
-> [LinkedIn post URL]
+> [https://www.linkedin.com/posts/shivani-d-a-10b69b297_medicalrobotics-aiinhealthcare-robotics-activity-7437118911252209665-46Ud?utm_source=share&utm_medium=member_android&rcm=ACoAAEfTm9sB7O8Hzr44amZasFIg6iZBYB4wHwc]
